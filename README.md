@@ -4,6 +4,7 @@
 
 
 
+
 # GHOUL-RE-Script
 Enhance your Roblox game with the Roblox GHOUL://RE Script! Add terrifying, customizable ghouls with dynamic AI behavior, spooky sound effects, and immersive events. Fully optimized for performance, easy to integrate, and perfect for any horror-themed game. Perfect for creating thrilling encounters!
 
